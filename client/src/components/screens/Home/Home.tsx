@@ -1,8 +1,8 @@
 import React from 'react'
 import "./Home.css"
-import { ReactComponent as FirstFloatingBox } from "assets/svgs/illustrations/Floatingbox#1.svg"
-import { ReactComponent as SecondFloatingBox } from "assets/svgs/illustrations/Floatingbox#2.svg"
-import { ReactComponent as ThirdFloatingBox } from "assets/svgs/illustrations/Floatingbox#3.svg"
+import { ReactComponent as FirstFloatingBox } from "assets/svgs/illustrations/Floatingbox_1.svg"
+import { ReactComponent as SecondFloatingBox } from "assets/svgs/illustrations/Floatingbox_2.svg"
+import { ReactComponent as ThirdFloatingBox } from "assets/svgs/illustrations/Floatingbox_3.svg"
 import { ReactComponent as Deadline } from "assets/svgs/illustrations/Deadline.svg"
 import { ReactComponent as Collaborate } from "assets/svgs/illustrations/undraw_collaborators_prrw.svg"
 import { ReactComponent as CrowdSource } from "assets/svgs/illustrations/undraw_community_8nwl.svg"
